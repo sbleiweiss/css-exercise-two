@@ -26,6 +26,7 @@ p {
   color: #132238;
   font-size: 100%;
   line-height: 1.5;
+  padding-bottom: 20px
 }
 
 nav {
@@ -86,3 +87,5 @@ a {
   text-decoration: none;
   color: #364e68;
 }
+
+a:hover { color: white; }
